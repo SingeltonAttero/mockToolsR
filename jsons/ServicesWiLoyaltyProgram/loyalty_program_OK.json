@@ -1,0 +1,182 @@
+{
+  "name": "Приведи друга",
+  "shortDescription": "Зовите друзей и получайте акции в подарок",
+  "fullDescription": "string",
+  "mediaСontentUrl": "string",
+  "promotionalCampaigns": {
+    "promotionalCampaigns": [
+      {
+        "promotionalCampaignId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "string",
+        "shortDescription": "Зовите друзей и получайте акции в подарок",
+        "fullDescription": "Расскажите о нас другу, тете или соседу. Расскажите своему боссу. Представьте, как он будет вам благодарен! Пусть откроет брокерский счет и получит приз - 1 000 ₽. За это вам в подарок - акция. Ее цена может достигать 30 000 ₽! У нас и такое бывает.",
+        "mediaСontentUrlPdf": "https://www.bcs.ru/pdf",
+        "mediaСontentUrlVideo": "https:\\/\\/youtube.com\\/embed\\/vaT3EjVlVhk",
+        "scheduledStartDate": "2021-02-15T06:51:14.157Z",
+        "scheduledEndDate": "2021-02-15T06:51:14.157Z",
+        "referralUrl": "https://www.site.com/helloworld/ifrO6sKUL",
+        "status": {
+          "code": "Active",
+          "name": "Активно"
+        },
+        "conditions": {
+          "conditions": [
+            {
+              "conditionId": 0,
+              "name": "string"
+            }
+          ]
+        },
+        "participations": {
+          "participations": [
+            {
+              "participationId": "3fa85f64-5717-4562-b3fc-2c963r66afa6",
+              "title": "Сергей Ф.",
+              "gender": "Мужской",
+              "createdOn": "2021-02-15T06:51:14.157Z",
+              "modifiedOn": "2021-02-15T06:51:14.157Z",
+              "promotionalCampaignId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "expirationDate": "2021-03-15",
+              "conditions": {
+                "conditions": [
+                  {
+                    "conditionId": 2,
+                    "name": "string",
+                    "isVisibilityCondition": true,
+                    "status": {
+                      "code": "Done",
+                      "name": "Не выполнено",
+                      "date": "2021-02-15T06:51:14.157Z"
+                    }
+                  },
+                  {
+                    "conditionId": 3,
+                    "name": "string",
+                    "isVisibilityCondition": true,
+                    "status": {
+                      "code": "Undefined",
+                      "name": "Не определено",
+                      "date": "2021-02-15T06:51:14.157Z"
+                    }
+                  },
+                  {
+                    "conditionId": 4,
+                    "name": "string",
+                    "isVisibilityCondition": true,
+                    "status": {
+                      "code": "Undefined",
+                      "name": "Не определено",
+                      "date": "2021-02-15T06:51:14.157Z"
+                    }
+                  }
+                ]
+              },
+              "status": {
+                "code": "Registered",
+                "name": "Участие зарегистрировано"
+              }
+            },
+            {
+              "participationId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "title": "Михаил С.",
+              "gender": "Женский",
+              "createdOn": "2021-02-15T06:51:14.157Z",
+              "modifiedOn": "2021-02-15T06:51:14.157Z",
+              "promotionalCampaignId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "expirationDate": "2021-03-01",
+              "conditions": {
+                "conditions": [
+                  {
+                    "conditionId": 2,
+                    "name": "string",
+                    "isVisibilityCondition": true,
+                    "status": {
+                      "code": "Done",
+                      "name": "Выполнено",
+                      "date": "2021-02-15T06:51:14.157Z"
+                    }
+                  },
+                  {
+                    "conditionId": 3,
+                    "name": "string",
+                    "isVisibilityCondition": true,
+                    "status": {
+                      "code": "Undefined",
+                      "name": "Не определено",
+                      "date": "2021-02-15T06:51:14.157Z"
+                    }
+                  },
+                  {
+                    "conditionId": 4,
+                    "name": "string",
+                    "isVisibilityCondition": true,
+                    "status": {
+                      "code": "Done",
+                      "name": "Выполнено",
+                      "date": "2021-02-15T06:51:14.157Z"
+                    }
+                  }
+                ]
+              },
+              "participationAward": {
+                "awardId": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+                "name": "APPLE",
+                "cost": 135,
+                "ticker": "APPL",
+                "classCode": "",
+                "isParticipantAwardExist": true,
+                "status": {
+                  "code": "SelectedBySystem",
+                  "name": "Отобран системой"
+                }
+              },
+              "status": {
+                "code": "Registered",
+                "name": "Участие зарегистрировано"
+              }
+            },
+            {
+              "participationId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "title": "Степан М.",
+              "gender": "Мужской",
+              "createdOn": "2020-12-08T09:05:06.103Z",
+              "modifiedOn": "2020-12-14T04:42:21.722Z",
+              "promotionalCampaignId": "3fa85f64-5717-4562-b3fc-2c963f66afa9",
+              "expirationDate": "2020-12-14",
+              "conditions": {
+                "conditions": [
+                  {
+                    "conditionId": 2,
+                    "name": "Рекомендуемый заключил Генеральное Соглашение",
+                    "isVisibilityCondition": true,
+                    "status": {
+                      "code": "1",
+                      "name": "Выполнено",
+                      "date": "2020-12-14T04:42:21.722Z"
+                    }
+                  }
+                ]
+              },
+              "participationAward": {
+                "awardId": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+                "name": "Сбербанк",
+                "cost": 205.08,
+                "ticker": "SBER",
+                "classCode": "TQBR",
+                "isParticipantAwardExist": true,
+                "status": {
+                  "code": "SelectedBySystem",
+                  "name": "Отобран системой"
+                }
+              },
+              "status": {
+                "code": "Registered",
+                "name": "Участие зарегистрировано"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

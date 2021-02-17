@@ -1,0 +1,43 @@
+{
+  "participationId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "participationAwards": {
+    "participationAwards": [
+      {
+        "awardId": "3fa85f64-5717-4562-b3fc-2c963f66af23",
+        "name": "Apple",
+        "cost": 2330,
+        "ticker": "",
+        "classCode": "",
+        "isParticipantAwardExist": true,
+        "status": {
+          "code": "SelectedBySystem",
+          "name": "Отобран системой"
+        }
+      },
+      {
+        "awardId": "3fa85f64-5717-4562-b3fc-2c963f66af22",
+        "name": "Microsoft",
+        "cost": 120,
+        "ticker": "MSFT",
+        "classCode": "SPBXM",
+        "isParticipantAwardExist": true,
+        "status": {
+          "code": "SelectedBySystem",
+          "name": "Отобран системой"
+        }
+      },
+      {
+        "awardId": "3fa85f64-5717-4562-b3fc-2c963f66af24",
+        "name": "Sberbank",
+        "cost": 20,
+        "ticker": "SBER",
+        "classCode": "TQBR",
+        "isParticipantAwardExist": true,
+        "status": {
+          "code": "SelectedBySystem",
+          "name": "Отобран системой"
+        }
+      }
+    ]
+  }
+}
